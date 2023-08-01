@@ -6,7 +6,7 @@ I'm Alexis a Full Stack Web Developer and an Electronic Engineer. I'm looking fo
 ### Back End
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,nodejs,express,python)](https://skillicons.dev)
 ### Front End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 ### Others
