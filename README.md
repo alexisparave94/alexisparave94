@@ -19,6 +19,3 @@ I'm Alexis a Full Stack Web Developer and an Electronic Engineer. I'm looking fo
 <p align="left">
 <a href="https://www.linkedin.com/in/alexis-parave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-cano-dlc/" height="30" width="40" /></a>
 </p>
-
-[!NOTE]
-Practicing a lot ..
